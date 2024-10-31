@@ -1365,3 +1365,28 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.10.31-23.47.33:892][276]LogSlate: Took 0.000666 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.10.31-23.47.33:923][277]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.10.31-23.48.02:373][846]LogSlate: Took 0.000718 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.10.31-23.51.09:886][846]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2024.10.31-23.51.09:902][846]LogActorComponent: UnregisterComponent: (/Game/Stamina_PlaceHolder_Blueprint.Default__Stamina_PlaceHolder_Blueprint_C:StaticMeshComponent0) Not registered. Aborting.
+[2024.10.31-23.51.09:926][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.10.31-23.51.09:934][846]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Stamina_PlaceHolder_Blueprint.Stamina_PlaceHolder_Blueprint
+[2024.10.31-23.51.09:936][846]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.31-23.51.09:936][846]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.31-23.51.09:940][846]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.10.31-23.51.11:096][846]LogViewport: Scene viewport resized to 880x832, mode Windowed.
+[2024.10.31-23.51.11:254][847]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.31-23.51.11:567][848]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.31-23.51.42:127][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.10.31-23.51.42:136][318]LogWorldPartition: Can't find class descriptor '/Game/Stamina_PlaceHolder_Blueprint.Stamina_PlaceHolder_Blueprint_C' for saving '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Stamina_PlaceHolder_Blueprint_C_UAID_60DD8EBC83EBFF2A02_1579058728'
+[2024.10.31-23.51.42:137][318]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/D9/FDN09HI0FNMIFXQIGBW50W_Auto1
+[2024.10.31-23.51.42:137][318]LogSavePackage: Moving '../../../../../../Users/User/Downloads/3d-platformer-kiwis/DesertCrabPlatformer/Saved/FDN09HI0FNMIFXQIGBW50W_Auto10E2BE99A4AAFB67F1F43129772A9878D.tmp' to '../../../../../../Users/User/Downloads/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/D9/FDN09HI0FNMIFXQIGBW50W_Auto1.uasset'
+[2024.10.31-23.51.42:140][318]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.034
+[2024.10.31-23.51.42:140][318]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2024.10.31-23.51.42:142][318]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Stamina_PlaceHolder_Blueprint] ([2] browsable assets)...
+[2024.10.31-23.51.42:144][318]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.31-23.51.42:235][318]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Stamina_PlaceHolder_Blueprint.Stamina_PlaceHolder_Blueprint]
+[2024.10.31-23.51.42:236][318]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.31-23.51.42:283][318]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Stamina_PlaceHolder_Blueprint.Stamina_PlaceHolder_Blueprint_C]
+[2024.10.31-23.51.42:283][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stamina_PlaceHolder_Blueprint]
+[2024.10.31-23.51.42:302][318]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Stamina_PlaceHolder_Blueprint_Auto1
+[2024.10.31-23.51.42:302][318]LogSavePackage: Moving '../../../../../../Users/User/Downloads/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stamina_PlaceHolder_Blueprint_Au0ADFD107434E8D4C3B0D7DB0B8D9770D.tmp' to '../../../../../../Users/User/Downloads/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Autosaves/Game/Stamina_PlaceHolder_Blueprint_Auto1.uasset'
+[2024.10.31-23.51.42:305][318]LogFileHelpers: Auto-saving content packages took 0.165
