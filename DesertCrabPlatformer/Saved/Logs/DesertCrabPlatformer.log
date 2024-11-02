@@ -1948,3 +1948,274 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.01-23.20.28:382][369]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5154.491699
 [2024.11.01-23.20.29:386][372]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.11.01-23.20.29:386][372]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5155.159180, Update Interval: 333.685120
+[2024.11.01-23.25.49:250][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.11.01-23.25.49:304][330]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto3
+[2024.11.01-23.25.49:304][330]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/ThirdPersonMap_Auto3AC1D576940D6F4B8EFB08A88049A6979.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto3.umap'
+[2024.11.01-23.25.49:315][330]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto3.umap is in the /Temp path, will not scan.
+[2024.11.01-23.25.49:315][330]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto3 is in the /Temp path, will not scan.
+[2024.11.01-23.25.49:315][330]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto3 is in the /Temp path, will not scan.
+[2024.11.01-23.25.49:317][330]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.092
+[2024.11.01-23.25.49:317][330]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.092
+[2024.11.01-23.26.49:508][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5535.624512
+[2024.11.01-23.26.50:509][515]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.01-23.26.50:509][515]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5536.291016, Update Interval: 356.010010
+[2024.11.01-23.29.09:139][ 73]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.01-23.29.09:153][ 73]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.01-23.29.09:153][ 73]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.01-23.29.09:157][ 73]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 16 ms)
+[2024.11.01-23.29.09:160][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.01-23.29.09:166][ 73]PIE: New page: PIE session: ThirdPersonMap (Nov 1, 2024, 9:29:09 AM)
+[2024.11.01-23.29.09:171][ 73]LogPlayLevel: Display: Creating online subsystem for client :Context_22
+[2024.11.01-23.29.09:183][ 73]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.11.01-23.29.09:218][ 74]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.01-23.29.09:266][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046955s)
+[2024.11.01-23.29.09:266][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.048428s)
+[2024.11.01-23.29.09:297][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.11.01-23.29.09:301][ 74]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.01-23.29.09:305][ 74]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.01-23.29.09:320][ 74]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.01-23.29.09:340][ 74]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.01-23.29.09:340][ 74]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.01-23.29.09:340][ 74]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.01-23.29.09:340][ 74]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.01-23.29.09:341][ 74]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.01-23.29.09:341][ 74]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 375 ms)
+[2024.11.01-23.29.09:344][ 74]LogPlayLevel: PIE: World Init took: (0.044030s)
+[2024.11.01-23.29.09:344][ 74]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.11.01-23.29.09:346][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.01-23.29.09:346][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.01-23.29.09:346][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.01-23.29.09:346][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.01-23.29.09:346][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.01-23.29.09:346][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.01-23.29.09:346][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.01-23.29.09:346][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.01-23.29.09:352][ 74]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.01-23.29.09:352][ 74]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.01-23.29.09:352][ 74]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.01-23.29.09:357][ 74]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.01-23.29.09:382][ 74]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.01-23.29.09:386][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.01-23.29.09:386][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.01-23.29.09:386][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.01-23.29.09:399][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.11.01-23.29.09:399][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.11.01-23.29.09:409][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.11.01-23.29.09:409][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.11.01-23.29.09:410][ 74]LogInit: FAudioDevice initialized with ID 4.
+[2024.11.01-23.29.09:410][ 74]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2024.11.01-23.29.09:410][ 74]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.01-23.29.09:443][ 74]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.01-23.29.09:457][ 74]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.11.01-16.29.09
+[2024.11.01-23.29.09:457][ 74]LogWorld: Bringing up level for play took: 0.012909
+[2024.11.01-23.29.09:498][ 74]PIE: Server logged in
+[2024.11.01-23.29.09:500][ 74]PIE: Play in editor total start time 0.347 seconds.
+[2024.11.01-23.29.28:997][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.01-23.29.28:997][387]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.01-23.29.28:998][387]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.01-23.29.28:998][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.01-23.29.28:999][387]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.01-23.29.29:087][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.01-23.29.29:100][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.01-23.29.29:134][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.01-23.29.29:134][387]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.01-23.29.29:134][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.01-23.29.29:141][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.01-23.29.29:152][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.11.01-23.29.29:202][388]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.11.01-23.33.42:913][886]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5949.023926
+[2024.11.01-23.33.43:912][889]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.01-23.33.43:912][889]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5949.692871, Update Interval: 351.602539
+[2024.11.01-23.40.12:987][ 56]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6339.100098
+[2024.11.01-23.40.13:987][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.01-23.40.13:987][ 59]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6339.767090, Update Interval: 355.004730
+[2024.11.01-23.46.42:414][224]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6728.520996
+[2024.11.01-23.46.43:413][227]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.01-23.46.43:413][227]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6729.187500, Update Interval: 335.571167
+[2024.11.01-23.53.04:819][371]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: a34...c95
+[2024.11.01-23.53.04:819][371]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.98 RefreshExpires: 1.554e+07
+[2024.11.01-23.53.05:820][374]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: a34...c95 Access[Expires: 2024.11.02-01.53.05 Remaining: 7200.14] Refresh[Expires: 2025-04-30T21:54:43.651Z Remaining: 15544898.65] State: Valid
+[2024.11.01-23.53.10:153][387]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7116.273926
+[2024.11.01-23.53.11:153][390]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.01-23.53.11:153][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7116.940918, Update Interval: 347.890869
+[2024.11.01-23.56.28:609][982]LogDerivedDataCache: C:/Users/chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.139 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 932 files in 1610 folders with total size 80 MiB.
+[2024.11.01-23.59.35:916][544]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7502.048340
+[2024.11.01-23.59.36:915][547]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.01-23.59.36:915][547]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7502.715820, Update Interval: 323.394257
+[2024.11.02-00.05.33:309][616]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7859.442871
+[2024.11.02-00.05.34:308][619]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-00.05.34:308][619]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7860.109863, Update Interval: 320.962555
+[2024.11.02-00.11.46:418][735]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8232.550781
+[2024.11.02-00.11.47:417][738]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-00.11.47:417][738]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8233.217773, Update Interval: 309.847717
+[2024.11.02-00.17.40:817][798]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8586.927734
+[2024.11.02-00.17.41:816][801]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-00.17.41:816][801]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8587.594727, Update Interval: 321.953186
+[2024.11.02-00.23.43:552][886]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8949.629883
+[2024.11.02-00.23.44:554][889]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-00.23.44:554][889]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8950.297852, Update Interval: 317.265533
+[2024.11.02-00.29.54:403][999]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9320.453125
+[2024.11.02-00.29.55:403][  2]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-00.29.55:403][  2]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9321.120117, Update Interval: 306.308167
+[2024.11.02-00.35.43:121][ 45]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9669.051758
+[2024.11.02-00.35.44:122][ 48]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-00.35.44:122][ 48]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9669.718750, Update Interval: 314.544525
+[2024.11.02-00.41.32:866][ 94]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10018.661133
+[2024.11.02-00.41.33:865][ 97]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-00.41.33:865][ 97]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10019.328125, Update Interval: 323.191010
+[2024.11.02-00.47.40:653][197]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10386.306641
+[2024.11.02-00.47.41:652][200]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-00.47.41:652][200]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10386.972656, Update Interval: 346.253845
+[2024.11.02-00.49.02:940][319]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.11.02-00.49.52:408][539]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.11.02-00.49.52:425][539]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.11.02-00.49.52:433][539]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.11.02-00.49.52:464][540]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.11.02-00.50.04:228][822]LogContentBrowser: Attempting asset rename: NewBlueprint -> Stam_WBP
+[2024.11.02-00.50.04:321][822]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.11.02-00.50.06:145][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-00.50.06:307][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Stam_WBP" FILE="../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_WBP.uasset" SILENT=true
+[2024.11.02-00.50.06:314][868]LogSavePackage: Moving output files for package: /Game/Blueprints/Stam_WBP
+[2024.11.02-00.50.06:314][868]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stam_WBP49FABF0F40F0EF954ACFA9AE0411C101.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_WBP.uasset'
+[2024.11.02-00.50.06:334][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 1.53 sec)
+[2024.11.02-00.50.06:336][868]AssetCheck: New page: Asset Save: Stam_WBP
+[2024.11.02-00.50.06:337][868]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Stam_WBP.Stam_WBP
+[2024.11.02-00.54.02:915][654]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10768.532227
+[2024.11.02-00.54.03:916][657]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-00.54.03:916][657]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10769.200195, Update Interval: 312.554108
+[2024.11.02-00.56.28:543][ 90]LogDerivedDataCache: C:/Users/chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.072 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 932 files in 1610 folders with total size 80 MiB.
+[2024.11.02-01.00.00:981][728]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11126.593750
+[2024.11.02-01.00.01:981][731]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-01.00.01:981][731]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11127.260742, Update Interval: 341.253082
+[2024.11.02-01.06.31:399][899]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11516.985352
+[2024.11.02-01.06.32:399][902]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-01.06.32:399][902]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11517.651367, Update Interval: 317.640930
+[2024.11.02-01.12.21:812][950]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11867.375000
+[2024.11.02-01.12.22:812][953]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-01.12.22:812][953]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11868.041992, Update Interval: 300.170288
+[2024.11.02-01.12.55:440][129]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Stam_WBP.Stam_WBP
+[2024.11.02-01.12.55:449][129]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.02-01.12.55:450][129]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.02-01.13.56:376][958]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2024.11.02-01.13.56:390][958]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.075
+[2024.11.02-01.13.56:392][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Stam_WBP] ([2] browsable assets)...
+[2024.11.02-01.13.56:392][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Stam_WBP]
+[2024.11.02-01.13.56:395][958]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Stam_WBP_Auto4
+[2024.11.02-01.13.56:395][958]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stam_WBP_Auto4C95D1BC14CC7A3B572EE59BD02FAD4D0.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Autosaves/Game/Blueprints/Stam_WBP_Auto4.uasset'
+[2024.11.02-01.13.56:396][958]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.11.02-01.18.07:309][712]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12212.849609
+[2024.11.02-01.18.08:311][715]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-01.18.08:311][715]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12213.515625, Update Interval: 327.278046
+[2024.11.02-01.24.24:052][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12589.570312
+[2024.11.02-01.24.25:053][845]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-01.24.25:053][845]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12590.236328, Update Interval: 331.121552
+[2024.11.02-01.30.40:840][972]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12966.330078
+[2024.11.02-01.30.41:840][975]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-01.30.41:840][975]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12966.997070, Update Interval: 312.365479
+[2024.11.02-01.36.32:564][ 27]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13318.030273
+[2024.11.02-01.36.33:565][ 30]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-01.36.33:565][ 30]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13318.697266, Update Interval: 333.044220
+[2024.11.02-01.43.03:951][201]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13709.399414
+[2024.11.02-01.43.04:951][204]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-01.43.04:951][204]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13710.065430, Update Interval: 330.912811
+[2024.11.02-01.49.15:683][316]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14081.108398
+[2024.11.02-01.49.16:682][319]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-01.49.16:682][319]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14081.774414, Update Interval: 356.031982
+[2024.11.02-01.51.26:698][709]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: a34...c95
+[2024.11.02-01.51.26:698][709]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.8 RefreshExpires: 1.554e+07
+[2024.11.02-01.51.27:699][712]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: a34...c95 Access[Expires: 2024.11.02-03.51.26 Remaining: 7200.94] Refresh[Expires: 2025-04-30T21:54:43.651Z Remaining: 15537797.65] State: Valid
+[2024.11.02-01.56.09:417][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14494.818359
+[2024.11.02-01.56.10:417][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-01.56.10:417][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14495.485352, Update Interval: 305.998718
+[2024.11.02-01.56.28:519][614]LogDerivedDataCache: C:/Users/chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.047 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 932 files in 1610 folders with total size 80 MiB.
+[2024.11.02-02.02.10:809][641]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14856.191406
+[2024.11.02-02.02.11:811][644]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-02.02.11:811][644]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14856.858398, Update Interval: 358.026062
+[2024.11.02-02.06.17:698][593]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.11.02-02.08.47:099][630]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15252.464844
+[2024.11.02-02.08.48:099][633]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-02.08.48:099][633]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15253.130859, Update Interval: 311.048920
+[2024.11.02-02.14.38:838][685]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15604.174805
+[2024.11.02-02.14.39:839][688]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-02.14.39:839][688]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15604.841797, Update Interval: 327.259735
+[2024.11.02-02.20.58:915][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15984.224609
+[2024.11.02-02.20.59:916][828]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-02.20.59:916][828]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15984.890625, Update Interval: 306.784271
+[2024.11.02-02.26.52:642][886]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16337.939453
+[2024.11.02-02.26.53:642][889]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-02.26.53:642][889]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16338.606445, Update Interval: 329.814148
+[2024.11.02-02.33.20:698][ 50]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16726.218750
+[2024.11.02-02.33.21:696][ 53]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-02.33.21:696][ 53]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16726.886719, Update Interval: 344.230469
+[2024.11.02-02.37.27:148][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-02.37.27:314][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Stam_WBP" FILE="../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_WBP.uasset" SILENT=true
+[2024.11.02-02.37.27:326][950]LogSavePackage: Moving output files for package: /Game/Blueprints/Stam_WBP
+[2024.11.02-02.37.27:326][950]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stam_WBP0C556E5A483E1A9E70A19581AF5B7F20.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_WBP.uasset'
+[2024.11.02-02.37.27:342][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 1.73 sec)
+[2024.11.02-02.37.27:350][950]AssetCheck: New page: Asset Save: Stam_WBP
+[2024.11.02-02.37.27:350][950]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Stam_WBP.Stam_WBP
+[2024.11.02-02.38.04:732][635]LogContentBrowser: Deferred new asset file creation: BP_ThirdPersonCharacter_Child
+[2024.11.02-02.38.04:805][635]LogContentBrowser: Creating deferred item: BP_ThirdPersonCharacter_Child
+[2024.11.02-02.38.04:845][636]LogContentBrowser: Renaming the item being created (Deferred Item: BP_ThirdPersonCharacter_Child).
+[2024.11.02-02.38.07:912][699]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacter_Child -> BP_ThirdPersonCharacter_Child
+[2024.11.02-02.38.08:017][699]LogContentBrowser: End creating deferred item BP_ThirdPersonCharacter_Child
+[2024.11.02-02.38.08:024][699]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.02-02.38.10:048][726]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child
+[2024.11.02-02.38.10:049][726]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.02-02.38.10:051][726]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.02-02.38.10:681][726]LogViewport: Scene viewport resized to 1108x1027, mode Windowed.
+[2024.11.02-02.38.13:775][758]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.11.02-02.38.13:775][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.02-02.38.21:394][893]LogUObjectHash: Compacting FUObjectHashTables data took  10.69ms
+[2024.11.02-02.38.23:888][893]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.02-02.38.23:978][893]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child
+	Asset Type: Blueprint
+[2024.11.02-02.38.25:199][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.11.02-02.38.25:278][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.11.02-02.38.25:305][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.11.02-02.38.25:325][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.02-02.39.46:891][363]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17112.472656
+[2024.11.02-02.39.47:890][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-02.39.47:890][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17113.138672, Update Interval: 311.664185
+[2024.11.02-02.45.46:007][683]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17471.687500
+[2024.11.02-02.45.46:249][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-02.45.46:249][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17471.880859, Update Interval: 358.139587
+[2024.11.02-02.47.10:556][986]LogSlate: Window 'Stam_WBP' being destroyed
+[2024.11.02-02.47.10:598][986]LogSlate: Window 'Stam_WBP' being destroyed
+[2024.11.02-02.47.10:605][986]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.11.02-02.47.10:605][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.02-02.47.40:321][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.11.02-02.47.41:868][630]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.02-02.47.41:906][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.11.02-02.47.41:926][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.11.02-02.47.41:946][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.02-02.48.56:210][901]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.11.02-02.48.56:224][901]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.11.02-02.48.56:244][901]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.11.02-02.48.56:262][902]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.11.02-02.49.04:330][ 95]LogContentBrowser: Attempting asset rename: NewBlueprint -> Stam_UWBP
+[2024.11.02-02.49.04:354][ 95]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.11.02-02.49.29:940][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.11.02-02.49.29:944][215]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.027
+[2024.11.02-02.49.29:945][215]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Stam_UWBP] ([2] browsable assets)...
+[2024.11.02-02.49.29:950][215]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Stam_UWBP.Stam_UWBP]
+[2024.11.02-02.49.29:950][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Stam_UWBP]
+[2024.11.02-02.49.29:956][215]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Stam_UWBP_Auto5
+[2024.11.02-02.49.29:956][215]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stam_UWBP_Auto500248CB1402BFEA9DC1F1F91D4DA55BD.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Autosaves/Game/Blueprints/Stam_UWBP_Auto5.uasset'
+[2024.11.02-02.49.29:956][215]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.11.02-02.50.17:952][394]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Stam_UWBP.Stam_UWBP
+[2024.11.02-02.50.17:954][394]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.02-02.50.17:954][394]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.02-02.50.17:977][394]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.02-02.50.17:977][394]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.02-02.50.18:080][394]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.11.02-02.50.18:625][394]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.11.02-02.50.18:640][394]LogSlate: Took 0.009536 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.11.02-02.50.33:397][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-02.50.33:549][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Stam_UWBP" FILE="../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset" SILENT=true
+[2024.11.02-02.50.33:553][709]LogSavePackage: Moving output files for package: /Game/Blueprints/Stam_UWBP
+[2024.11.02-02.50.33:553][709]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stam_UWBP3869FA114C58EC846B0CD5B36CB46AAD.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset'
+[2024.11.02-02.50.33:569][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 1.90 sec)
+[2024.11.02-02.50.33:569][709]AssetCheck: New page: Asset Save: Stam_UWBP
+[2024.11.02-02.50.33:569][709]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Stam_UWBP.Stam_UWBP
