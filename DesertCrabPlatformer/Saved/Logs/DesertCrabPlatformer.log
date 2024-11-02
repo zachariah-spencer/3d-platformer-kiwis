@@ -2441,3 +2441,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.02-03.26.32:506][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 3.00 sec)
 [2024.11.02-03.26.32:507][343]AssetCheck: New page: Asset Save: Stam_UWBP
 [2024.11.02-03.26.32:507][343]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Stam_UWBP.Stam_UWBP
+[2024.11.02-03.29.28:198][316]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20095.029297
+[2024.11.02-03.29.29:198][319]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-03.29.29:198][319]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20095.697266, Update Interval: 327.792603
+[2024.11.02-03.31.10:302][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.11.02-03.31.10:326][621]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9
+[2024.11.02-03.31.10:326][621]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/ThirdPersonMap_Auto94BE29E954A86903AEC965EBFFCEB9876.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap'
+[2024.11.02-03.31.10:329][621]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap is in the /Temp path, will not scan.
+[2024.11.02-03.31.10:329][621]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9 is in the /Temp path, will not scan.
+[2024.11.02-03.31.10:329][621]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9 is in the /Temp path, will not scan.
+[2024.11.02-03.31.10:330][621]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.052
+[2024.11.02-03.31.10:330][621]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
