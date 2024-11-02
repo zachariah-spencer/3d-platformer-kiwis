@@ -2219,3 +2219,225 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.02-02.50.33:569][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 1.90 sec)
 [2024.11.02-02.50.33:569][709]AssetCheck: New page: Asset Save: Stam_UWBP
 [2024.11.02-02.50.33:569][709]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Stam_UWBP.Stam_UWBP
+[2024.11.02-02.52.07:249][709]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.02-02.52.15:115][865]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.02-02.52.30:319][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-02.52.30:469][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Stam_UWBP" FILE="../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset" SILENT=true
+[2024.11.02-02.52.30:472][172]LogSavePackage: Moving output files for package: /Game/Blueprints/Stam_UWBP
+[2024.11.02-02.52.30:474][172]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stam_UWBP1EC13D9A475B07652839189E469AB97E.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset'
+[2024.11.02-02.52.30:487][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 2.07 sec)
+[2024.11.02-02.52.30:488][172]AssetCheck: New page: Asset Save: Stam_UWBP
+[2024.11.02-02.52.30:488][172]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Stam_UWBP.Stam_UWBP
+[2024.11.02-02.52.32:902][223]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17878.562500
+[2024.11.02-02.52.33:148][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-02.52.33:148][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17878.759766, Update Interval: 354.590912
+[2024.11.02-02.56.27:678][  4]LogDerivedDataCache: C:/Users/chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.204 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 932 files in 1610 folders with total size 80 MiB.
+[2024.11.02-02.59.17:991][335]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18284.021484
+[2024.11.02-02.59.18:252][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-02.59.18:252][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18284.230469, Update Interval: 325.247345
+[2024.11.02-03.00.51:758][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2024.11.02-03.00.51:764][720]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.035
+[2024.11.02-03.00.51:765][720]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Stam_UWBP] ([2] browsable assets)...
+[2024.11.02-03.00.51:768][720]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Stam_UWBP.Stam_UWBP]
+[2024.11.02-03.00.51:768][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Stam_UWBP]
+[2024.11.02-03.00.51:772][720]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Stam_UWBP_Auto6
+[2024.11.02-03.00.51:772][720]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stam_UWBP_Auto63D54846E49E3F966AD6960A2346194F4.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Autosaves/Game/Blueprints/Stam_UWBP_Auto6.uasset'
+[2024.11.02-03.00.51:773][720]LogFileHelpers: Auto-saving content packages took 0.009
+[2024.11.02-03.02.10:371][432]LogSlate: Took 0.012301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.11.02-03.03.30:345][984]LogEditorTransaction: Undo Move Node
+[2024.11.02-03.03.30:635][986]LogEditorTransaction: Undo Move Node
+[2024.11.02-03.03.31:321][  0]LogEditorTransaction: Undo Move Node
+[2024.11.02-03.03.31:919][ 12]LogEditorTransaction: Undo Move Node
+[2024.11.02-03.03.32:371][ 21]LogEditorTransaction: Undo Move Node
+[2024.11.02-03.03.32:825][ 30]LogEditorTransaction: Undo Create Pin Link
+[2024.11.02-03.03.33:277][ 39]LogEditorTransaction: Undo Move Node
+[2024.11.02-03.03.34:081][ 55]LogEditorTransaction: Undo Add Node
+[2024.11.02-03.03.34:708][ 65]LogEditorTransaction: Undo Rename Variable
+[2024.11.02-03.03.35:208][ 75]LogEditorTransaction: Undo Change Parameter Type
+[2024.11.02-03.03.35:760][ 86]LogEditorTransaction: Undo Add Variable
+[2024.11.02-03.03.36:311][ 97]LogEditorTransaction: Undo Move Node
+[2024.11.02-03.03.37:011][111]LogEditorTransaction: Undo Move Node
+[2024.11.02-03.03.38:152][134]LogEditorTransaction: Undo Delete current selection
+[2024.11.02-03.03.38:725][143]LogEditorTransaction: Undo Move Node
+[2024.11.02-03.03.39:474][158]LogEditorTransaction: Undo Add Node
+[2024.11.02-03.04.12:043][804]LogEditorTransaction: Undo Add Node
+[2024.11.02-03.04.12:286][806]LogEditorTransaction: Undo Move Node
+[2024.11.02-03.04.37:791][297]LogEditorTransaction: Undo Add Variable
+[2024.11.02-03.05.35:463][354]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18661.400391
+[2024.11.02-03.05.35:726][359]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-03.05.35:726][359]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18661.613281, Update Interval: 315.344696
+[2024.11.02-03.06.36:908][508]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.02-03.06.38:750][541]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.11.02-03.06.38:774][541]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.02-03.07.26:565][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-03.07.26:719][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Stam_UWBP" FILE="../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset" SILENT=true
+[2024.11.02-03.07.26:728][419]LogSavePackage: Moving output files for package: /Game/Blueprints/Stam_UWBP
+[2024.11.02-03.07.26:729][419]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stam_UWBP04E38B484D935838DBD36985A3856B35.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset'
+[2024.11.02-03.07.26:742][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 2.24 sec)
+[2024.11.02-03.07.26:744][419]AssetCheck: New page: Asset Save: Stam_UWBP
+[2024.11.02-03.07.26:744][419]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Stam_UWBP.Stam_UWBP
+[2024.11.02-03.07.29:784][479]BlueprintLog: New page: Compile Stam_UWBP
+[2024.11.02-03.07.29:803][479]LogBlueprint: Error: [AssetLog] C:\Users\chris\3d-platformer-kiwis\DesertCrabPlatformer\Content\Blueprints\Stam_UWBP.uasset: [Compiler] This blueprint (self) is not a Slider, therefore ' Target ' must have a connection.
+[2024.11.02-03.07.29:867][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2024.11.02-03.11.01:503][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.11.02-03.11.01:523][870]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto7
+[2024.11.02-03.11.01:523][870]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/ThirdPersonMap_Auto7C1A6CEDA4E18D8CABDD1B1A5AF0A42E4.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto7.umap'
+[2024.11.02-03.11.01:526][870]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto7.umap is in the /Temp path, will not scan.
+[2024.11.02-03.11.01:526][870]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto7 is in the /Temp path, will not scan.
+[2024.11.02-03.11.01:526][870]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto7 is in the /Temp path, will not scan.
+[2024.11.02-03.11.01:526][870]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.044
+[2024.11.02-03.11.01:526][870]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2024.11.02-03.11.01:527][870]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Stam_UWBP] ([2] browsable assets)...
+[2024.11.02-03.11.01:530][870]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Stam_UWBP.Stam_UWBP]
+[2024.11.02-03.11.01:530][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Stam_UWBP]
+[2024.11.02-03.11.01:535][870]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Stam_UWBP_Auto7
+[2024.11.02-03.11.01:535][870]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stam_UWBP_Auto779502EE04B812829C71690A7C75EDC04.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Autosaves/Game/Blueprints/Stam_UWBP_Auto7.uasset'
+[2024.11.02-03.11.01:535][870]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.11.02-03.11.25:688][347]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19011.726562
+[2024.11.02-03.11.25:925][352]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-03.11.25:925][352]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19011.917969, Update Interval: 331.681885
+[2024.11.02-03.11.40:038][648]LogEditorTransaction: Undo Delete current selection
+[2024.11.02-03.12.29:256][680]LogEditorTransaction: Undo Move Node
+[2024.11.02-03.17.41:621][931]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19387.962891
+[2024.11.02-03.17.41:880][936]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-03.17.41:880][936]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19388.171875, Update Interval: 327.419037
+[2024.11.02-03.18.20:241][673]LogEditorTransaction: Undo Create Pin Link
+[2024.11.02-03.18.20:856][683]LogEditorTransaction: Undo Move Node
+[2024.11.02-03.18.21:365][693]LogEditorTransaction: Undo Comment Changed
+[2024.11.02-03.18.21:876][703]LogEditorTransaction: Undo Move Node
+[2024.11.02-03.18.22:332][712]LogEditorTransaction: Undo Delete current selection
+[2024.11.02-03.21.01:904][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.11.02-03.21.01:916][ 15]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto8
+[2024.11.02-03.21.01:916][ 15]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/ThirdPersonMap_Auto8C4B55749407C52967A90559B5EAEDB4C.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto8.umap'
+[2024.11.02-03.21.01:918][ 15]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto8.umap is in the /Temp path, will not scan.
+[2024.11.02-03.21.01:918][ 15]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto8 is in the /Temp path, will not scan.
+[2024.11.02-03.21.01:918][ 15]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto8 is in the /Temp path, will not scan.
+[2024.11.02-03.21.01:918][ 15]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.039
+[2024.11.02-03.21.01:918][ 15]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2024.11.02-03.21.01:919][ 15]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Stam_UWBP] ([2] browsable assets)...
+[2024.11.02-03.21.01:922][ 15]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Stam_UWBP.Stam_UWBP]
+[2024.11.02-03.21.01:922][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Stam_UWBP]
+[2024.11.02-03.21.01:926][ 15]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Stam_UWBP_Auto8
+[2024.11.02-03.21.01:926][ 15]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stam_UWBP_Auto866615587454A9CAA56ACD59C696A107C.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Autosaves/Game/Blueprints/Stam_UWBP_Auto8.uasset'
+[2024.11.02-03.21.01:927][ 15]LogFileHelpers: Auto-saving content packages took 0.009
+[2024.11.02-03.22.48:155][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-03.22.48:295][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Stam_UWBP" FILE="../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset" SILENT=true
+[2024.11.02-03.22.48:300][927]LogSavePackage: Moving output files for package: /Game/Blueprints/Stam_UWBP
+[2024.11.02-03.22.48:300][927]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stam_UWBPA8B0C43B4A67B380349E41A822F0BD24.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset'
+[2024.11.02-03.22.48:313][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 2.40 sec)
+[2024.11.02-03.22.48:315][927]AssetCheck: New page: Asset Save: Stam_UWBP
+[2024.11.02-03.22.48:315][927]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Stam_UWBP.Stam_UWBP
+[2024.11.02-03.23.33:721][841]LogEditorTransaction: Undo Delete current selection
+[2024.11.02-03.23.34:030][844]LogEditorTransaction: Undo Delete current selection
+[2024.11.02-03.23.34:198][846]LogEditorTransaction: Undo Delete current selection
+[2024.11.02-03.23.34:413][851]LogEditorTransaction: Undo Delete current selection
+[2024.11.02-03.23.34:593][854]LogEditorTransaction: Undo Edit Slider Handle End Angle
+[2024.11.02-03.23.34:809][857]LogEditorTransaction: Undo Edit Slider Handle Start Angle
+[2024.11.02-03.23.34:994][861]LogEditorTransaction: Undo Rename Widget
+[2024.11.02-03.23.35:199][865]LogEditorTransaction: Undo Set Binding
+[2024.11.02-03.23.35:402][869]LogEditorTransaction: Undo Move Node
+[2024.11.02-03.23.35:655][874]LogEditorTransaction: Undo Add Node
+[2024.11.02-03.23.35:907][879]LogEditorTransaction: Undo Move Node
+[2024.11.02-03.23.40:968][979]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19747.535156
+[2024.11.02-03.23.41:211][984]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.02-03.23.41:211][984]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19747.730469, Update Interval: 303.938721
+[2024.11.02-03.25.20:926][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-03.25.21:063][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Stam_UWBP" FILE="../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset" SILENT=true
+[2024.11.02-03.25.21:068][ 41]LogSavePackage: Moving output files for package: /Game/Blueprints/Stam_UWBP
+[2024.11.02-03.25.21:069][ 41]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stam_UWBP317ABF854C348DE622F0638AF7C89E2C.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset'
+[2024.11.02-03.25.21:083][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 2.56 sec)
+[2024.11.02-03.25.21:085][ 41]AssetCheck: New page: Asset Save: Stam_UWBP
+[2024.11.02-03.25.21:085][ 41]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Stam_UWBP.Stam_UWBP
+[2024.11.02-03.25.27:391][172]BlueprintLog: New page: Compile Stam_UWBP
+[2024.11.02-03.25.27:450][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2024.11.02-03.25.48:633][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-03.25.48:711][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Stam_UWBP" FILE="../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset" SILENT=true
+[2024.11.02-03.25.48:716][602]LogSavePackage: Moving output files for package: /Game/Blueprints/Stam_UWBP
+[2024.11.02-03.25.48:717][602]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stam_UWBP436E6ECE4278CE3C6CEA6EA02B894583.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset'
+[2024.11.02-03.25.48:729][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 2.66 sec)
+[2024.11.02-03.25.48:730][602]AssetCheck: New page: Asset Save: Stam_UWBP
+[2024.11.02-03.25.48:730][602]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Stam_UWBP.Stam_UWBP
+[2024.11.02-03.25.57:122][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-03.25.57:260][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Stam_UWBP" FILE="../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset" SILENT=true
+[2024.11.02-03.25.57:263][776]LogSavePackage: Moving output files for package: /Game/Blueprints/Stam_UWBP
+[2024.11.02-03.25.57:264][776]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stam_UWBP519F21F441943C67CEC96088AD171074.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset'
+[2024.11.02-03.25.57:277][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 2.81 sec)
+[2024.11.02-03.25.57:279][776]AssetCheck: New page: Asset Save: Stam_UWBP
+[2024.11.02-03.25.57:279][776]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Stam_UWBP.Stam_UWBP
+[2024.11.02-03.25.58:006][792]BlueprintLog: New page: Compile Stam_UWBP
+[2024.11.02-03.25.58:062][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2024.11.02-03.26.02:161][871]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.02-03.26.02:187][871]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.02-03.26.02:188][871]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.02-03.26.02:203][871]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 15 ms (total: 32 ms)
+[2024.11.02-03.26.02:211][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.02-03.26.02:213][871]PIE: New page: PIE session: ThirdPersonMap (Nov 1, 2024, 1:26:02 PM)
+[2024.11.02-03.26.02:251][871]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2024.11.02-03.26.02:266][871]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.11.02-03.26.02:300][872]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.02-03.26.02:353][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052951s)
+[2024.11.02-03.26.02:353][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.053755s)
+[2024.11.02-03.26.02:371][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.11.02-03.26.02:385][872]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.02-03.26.02:393][872]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.02-03.26.02:399][872]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.02-03.26.02:412][872]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.02-03.26.02:413][872]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.02-03.26.02:413][872]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.02-03.26.02:414][872]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.02-03.26.02:417][872]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.02-03.26.02:422][872]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 385 ms)
+[2024.11.02-03.26.02:422][872]LogPlayLevel: PIE: World Init took: (0.042418s)
+[2024.11.02-03.26.02:427][872]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.11.02-03.26.02:431][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.02-03.26.02:431][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.02-03.26.02:431][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.02-03.26.02:431][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.02-03.26.02:431][872]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.02-03.26.02:432][872]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.02-03.26.02:432][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.02-03.26.02:432][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.02-03.26.02:440][872]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.02-03.26.02:440][872]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.02-03.26.02:440][872]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.02-03.26.02:448][872]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.02-03.26.02:484][872]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.02-03.26.02:490][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.02-03.26.02:490][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.02-03.26.02:491][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.02-03.26.02:495][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.11.02-03.26.02:495][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.11.02-03.26.02:498][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.11.02-03.26.02:498][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.11.02-03.26.02:498][872]LogInit: FAudioDevice initialized with ID 5.
+[2024.11.02-03.26.02:498][872]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.11.02-03.26.02:499][872]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.02-03.26.02:553][872]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.02-03.26.02:575][872]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.11.01-20.26.02
+[2024.11.02-03.26.02:577][872]LogWorld: Bringing up level for play took: 0.020950
+[2024.11.02-03.26.02:658][872]PIE: Server logged in
+[2024.11.02-03.26.02:659][872]PIE: Play in editor total start time 0.476 seconds.
+[2024.11.02-03.26.09:691][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.02-03.26.09:692][953]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.02-03.26.09:702][953]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.02-03.26.09:712][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.02-03.26.09:716][953]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.02-03.26.09:796][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.02-03.26.09:810][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.02-03.26.09:846][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.02-03.26.09:850][953]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.02-03.26.09:853][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.02-03.26.09:856][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.02-03.26.09:903][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.11.02-03.26.10:033][954]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.11.02-03.26.26:538][245]LogEditorTransaction: Undo Edit Slider Handle End Angle
+[2024.11.02-03.26.27:032][248]LogEditorTransaction: Undo Edit Slider Handle Start Angle
+[2024.11.02-03.26.29:565][300]LogEditorTransaction: Redo Edit Slider Handle Start Angle
+[2024.11.02-03.26.30:263][310]LogEditorTransaction: Redo Edit Slider Handle End Angle
+[2024.11.02-03.26.32:320][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-03.26.32:485][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Stam_UWBP" FILE="../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset" SILENT=true
+[2024.11.02-03.26.32:489][343]LogSavePackage: Moving output files for package: /Game/Blueprints/Stam_UWBP
+[2024.11.02-03.26.32:490][343]LogSavePackage: Moving '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Saved/Stam_UWBPB0D473E744F392B460000AA7A7CDBA6C.tmp' to '../../../../../../Users/chris/3d-platformer-kiwis/DesertCrabPlatformer/Content/Blueprints/Stam_UWBP.uasset'
+[2024.11.02-03.26.32:506][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 3.00 sec)
+[2024.11.02-03.26.32:507][343]AssetCheck: New page: Asset Save: Stam_UWBP
+[2024.11.02-03.26.32:507][343]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Stam_UWBP.Stam_UWBP
